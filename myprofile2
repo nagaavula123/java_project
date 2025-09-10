@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Naga Mallareddy | AWS DevOps Engineer</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background-color: #f4f4f4;
+      color: #333;
+    }
+    .container {
+      max-width: 900px;
+      margin: 40px auto;
+      background: #fff;
+      padding: 30px;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    .profile {
+      display: flex;
+      align-items: center;
+      gap: 20px;
+    }
+    .profile img {
+      width: 120px;
+      height: 120px;
+      border-radius: 50%;
+      object-fit: cover;
+      border: 2px solid #007acc;
+    }
+    h1 {
+      margin: 0;
+      font-size: 28px;
+      color: #007acc;
+    }
+    .contact {
+      margin-top: 10px;
+      font-size: 16px;
+    }
+    .section {
+      margin-top: 30px;
+    }
+    .section h2 {
+      color: #007acc;
+      border-bottom: 2px solid #007acc;
+      padding-bottom: 5px;
+    }
+    ul {
+      padding-left: 20px;
+    }
+    a {
+      color: #007acc;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="profile">
+      <img src="photo.jpg" alt="Naga Mallareddy" width="200" />
+
+      <div>
+        <h1>Naga Mallareddy</h1>
+        <div class="contact">
+          📞 +91-8309487242<br />
+          📧 <a href="mailto:nagamallareddy2737@gmail.cm">nagamallareddy2737@gmail.com</a><br />
+          💻 <a href="https://github.com/mss-ec-apps-maybatch" target="_blank">GitHub Profile</a>
+        </div>
+      </div>
+    </div>
+
+    <div class="section">
+      <h2>Professional Summary</h2>
+      <p>
+        I am a DevOps Engineer with 5 years of experience in the IT industry, specializing in AWS cloud services. I have a strong background in CI/CD pipelines, infrastructure automation, container orchestration, and cloud security. I am passionate about building scalable and reliable systems using modern DevOps practices.
+      </p>
+    </div>
+
+    <div class="section">
+      <h2>Education</h2>
+      <p>
+        🎓 Graduated from NBKR Institute of Science and Technology<br />
+        Degree: Bachelor's in Engineering (Mechanical Engineer with 7.6 CGPA)
+      </p>
+    </div>
+
+    <div class="section">
+      <h2>Skills & Tools</h2>
+      <ul>
+        <li>AWS (EC2, S3, VPC, IAM, CloudWatch, Lambda, EKS, ECS)</li>
+        <li>DevOps Tools: Jenkins, GitHub Actions, Docker, Kubernetes</li>
+        <li>Infrastructure as Code: Terraform, CloudFormation</li>
+        <li>Monitoring: Prometheus, Grafana</li>
+        <li>Version Control: Git</li>
+        <li>Scripting: Shell Script</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h2>Projects & Contributions</h2>
+      <p>
+        Visit my GitHub to explore my work: <a href="https://github.com/mss-ec-apps-maybatch" target="_blank">mss-ec-apps-maybatch</a>
+      </p>
+    </div>
+
+    <div class="section">
+      <h2>Contact Me</h2>
+      <p>
+        Feel free to reach out via email or phone for collaboration, opportunities, or tech discussions.
+      </p>
+    </div>
+  </div>
+</body>
+</html>
